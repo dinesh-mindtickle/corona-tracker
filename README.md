@@ -9,6 +9,7 @@ One of the major issues with covid is that even if a person is not symptomatic, 
 1. Time Vs Coordinate 
 2. Details of public transport the patient has taken
 3. Details of public places patient has gone to
+4. Details of People patient has met
 
 
 ## How will we get the data:
@@ -21,3 +22,6 @@ By going through the SMSes, we might be able to get all of the public transport 
 
 **3. Details of public places patient has gone:**
 		This can be taken out from the kml data exported
+		
+**4. Details of People patient has met:** This is pure unknown
+
